@@ -1,3 +1,6 @@
+// Incluir la libreria de la direccion https://www.itead.cc/blog/nextion-tutorial-based-on-nextion-arduino-library, del link del literal 1.
+// Modificar la carpeta NexConfig como dice en la pagina del link arriba.
+
 #include "NexButton.h"
 #include "NexText.h"
 
